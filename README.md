@@ -13,5 +13,5 @@
 ### Languages & Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,git,github" />
+  <img src="https://skillicons.dev/icons?i=python,java,git,github" />
 </p>
