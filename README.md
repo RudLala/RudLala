@@ -16,12 +16,8 @@
   <img src="https://skillicons.dev/icons?i=python,java,git,github" />
 </p>
 
-### AI & Data
+## Featured Projects
 
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="60" height="60"/>
-</p>
+| Project | What it does | Stack |
+|---|---|---|
+| [AI Skin Cancer Classification](https://github.com/RudLala/Bachelor_Thesis_AI_Skin_Cancer) | Bachelor thesis comparing ResNet50 and EfficientNetB0 for skin-lesion classification on the HAM10000 dataset. Explores class imbalance, transfer learning, class weighting, minority-class performance, and the sensitivity–specificity trade-off in melanoma detection. | Python · Jupyter · scikit-learn · Deep Learning · ResNet50 · EfficientNetB0 |
