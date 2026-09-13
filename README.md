@@ -4,3 +4,14 @@
 🤖 AI/ML & Data Science Developer  
 🧠 Interested in Deep Learning, LLMs, RAG, and MLOps  
 🌐 Building Python and Streamlit applications
+
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages & Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,git,github" />
+</p>
